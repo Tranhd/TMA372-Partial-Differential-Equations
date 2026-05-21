@@ -2,4 +2,4 @@
  Assignments from the course, done in Matlab.
 
 ## Author
-* **Ludwig Tranheden**
+* **Ludwig T**
